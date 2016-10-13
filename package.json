@@ -1,9 +1,9 @@
 {
   "name": "addtoomnifocus",
   "title": "AddToOmnifocus",
-  "id": "jid1-A8HjG5DBf1hjNw",
   "description": "a basic add-on",
   "author": "",
+  "main": "lib/main.js",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.1.1"
 }
